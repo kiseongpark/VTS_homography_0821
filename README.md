@@ -17,7 +17,7 @@
 
 ### 테스트
 
-readH.py로 임의의 픽셀 좌표를 위 과정을 통해서 구한 H행렬을 이용하여, 월드좌표로 변환한다. 
+readH.py로 임의의 픽셀 좌표(1234.5, 845.2)를 위 과정을 통해서 구한 H행렬을 이용하여, 월드좌표로 변환한다. 
 
 
 <img width="608" height="142" alt="image" src="https://github.com/user-attachments/assets/2e69ab78-df17-4eff-83f2-f77a578469d2" />
