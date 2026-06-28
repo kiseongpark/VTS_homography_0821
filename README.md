@@ -1,3 +1,8 @@
+## 환경 세팅
+<img width="824" height="434" alt="Image" src="https://github.com/user-attachments/assets/27c0e338-3fe3-4867-a7bd-9618171fe002" />
+<img width="322" height="362" alt="Image" src="https://github.com/user-attachments/assets/aa6596ef-266f-47a7-9488-b0c515ee4c3e" />
+
+
 ## 호모그래피 과정
 
 1. 맵의 기준점들의 월드 좌표를 world_point.csv 파일로 저장한다. csvread.py로 그 좌표들을 읽어볼 수 있다.
