@@ -31,4 +31,4 @@
 
 
 <br>
-이후 <a href=https://github.com/kiseongpark/VTS_server_gpu_yolo_0731>gpu 및 스트리밍 서버(Flask 웹서버 & Docker) 구현
+이후 진행된<a href=https://github.com/kiseongpark/VTS_server_gpu_yolo_0731>gpu 및 스트리밍 서버(Flask 웹서버 & Docker) 구현
