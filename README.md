@@ -15,8 +15,9 @@
 
 3. estimate_H 폴더에서 estimate_H cam1~4.py를 실행한다. world_point.csv의 월드 좌표와 cam1~4_pix.csv 픽셀 좌표간 대응을 이용하여 호모그래피 행렬 H를 구하게 된다.
 
-<img width="777" height="595" alt="Image" src="https://github.com/user-attachments/assets/d1dca73e-7b1e-4a9f-81c7-4eec283f477c" />
-
+<p align="center">
+<img width="700" height="500" alt="Image" src="https://github.com/user-attachments/assets/d1dca73e-7b1e-4a9f-81c7-4eec283f477c" />
+</p>
 
    H는 넘파이 행렬이며, H_cam1~4.npy 형식으로 저장이 된다. 이때 RMSE 값도 함께 검출이 된다.
 
