@@ -13,7 +13,7 @@
    그렇게 하면 cam1~4_pix.csv 파일로 기준점들의 픽셀 좌표들이 저장이 된다.
 
 
-3. estimate_H 폴더에서 estimate_H cam1~4.py를 실행한다. world_point.csv의 월드 좌표와 cam1~4_pix.csv 픽셀 좌표간 대응을 이용하여 호모그래피 행렬 H를 구하게 된다.
+3. estimate_H 폴더에서 'estimate_H cam1~4.py'를 실행한다. 'world_point.csv'의 월드 좌표와 'cam1~4_pix.csv' 픽셀 좌표간 대응을 이용하여 호모그래피 행렬 H를 구하게 된다.
 
 <p align="center">
 <img width="700" height="500" alt="Image" src="https://github.com/user-attachments/assets/d1dca73e-7b1e-4a9f-81c7-4eec283f477c" />
