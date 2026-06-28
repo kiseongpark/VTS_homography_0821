@@ -1,5 +1,5 @@
 ## 환경 세팅
-<img width="830" height="383" alt="Image" src="https://github.com/user-attachments/assets/b3233d5e-4f73-4807-90eb-9970c548e813" />
+<img width="1115" height="530" alt="Image" src="https://github.com/user-attachments/assets/e99032fd-77f2-4a18-a46b-eb05c630ccb0" />
 <img width="323" height="356" alt="Image" src="https://github.com/user-attachments/assets/de065eb1-c4bf-4cd8-af99-a9199045903f" />
 
 
