@@ -1,7 +1,6 @@
 ## 환경 세팅
 <img width="1115" height="530" alt="Image" src="https://github.com/user-attachments/assets/e99032fd-77f2-4a18-a46b-eb05c630ccb0" />
-<img width="323" height="356" alt="Image" src="https://github.com/user-attachments/assets/de065eb1-c4bf-4cd8-af99-a9199045903f" />
-
+<img width="438" height="497" alt="Image" src="https://github.com/user-attachments/assets/cd6002bd-686d-4e4a-ac9b-d71da4a4afd2" />
 
 ## 호모그래피 과정
 
